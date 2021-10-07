@@ -1,2 +1,2 @@
 # toy_ds_project
-DSCI 100 Test
+This is a test!
